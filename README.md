@@ -1,7 +1,4 @@
 # Maxwell
-Maxwell is an application architecture designed for building client-side web applications
-
-## Overview
 
 Maxwell is an application architecture designed for building client-side web applications. It is described by a set of design patterns and conventions and does not require implementation as a formal framework.
 
